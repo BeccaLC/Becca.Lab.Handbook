@@ -7,7 +7,7 @@ execute:
 book:
   title: "Becca Lab Handbook"
   search: true
-  repo-url: https://github.com/cct-datascience/group-handbook-template
+  repo-url: https://beccalc.github.io/Becca.Lab.Handbook/
   repo-actions: [edit, issue]
   page-footer: '© 2024 by Becca Campbell <br> This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}'
   author: 
