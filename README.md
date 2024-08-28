@@ -1,4 +1,4 @@
-# group-handbook-template
+# Becca.Lab.Handbook
 
 <!-- badges: start -->
 
