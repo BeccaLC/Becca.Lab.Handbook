@@ -25,6 +25,7 @@ book:
     - offboarding.qmd
     - research-best-practices.qmd
     - authorship.qmd
+    - lab-events.qmd
     - references.qmd
 
 bibliography: references.bib
